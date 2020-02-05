@@ -1,8 +1,8 @@
 datasource:
   sampleapp:
-    url: jdbc:postgresql://ec2-34-192-30-15.compute-1.amazonaws.com:5432/exhxeckpfecotl?user=exhxeckpfecotl&password=b2d41529499451df17641c90d37baed431d35d991f353ce8e00c25913dd19a93
-    username: exhxeckpfecotl
-    password: b2d41529499451df17641c90d37baed431d35d991f353ce8e00c25913dd19a93
+    url: jdbc:postgresql://ec2-34-192-30-15.compute-1.amazonaws.com:5432/de4ihmmv96bur5?user=ibdtmmzqbjvhuh&password=5d7e669c7d040f8b9b56932863636ad8066a77fd4b77ce55338238a24898e9b3
+    username: ibdtmmzqbjvhuh
+    password: 5d7e669c7d040f8b9b56932863636ad8066a77fd4b77ce55338238a24898e9b3
     driverClassName: org.postgresql.Driver
     defaultSchema:
 #    maxPoolSize: 20
