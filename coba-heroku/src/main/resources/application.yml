@@ -1,0 +1,13 @@
+datasource:
+  sampleapp:
+    url: jdbc:postgresql://ec2-34-192-30-15.compute-1.amazonaws.com:5432/exhxeckpfecotl?user=exhxeckpfecotl&password=b2d41529499451df17641c90d37baed431d35d991f353ce8e00c25913dd19a93
+    username: exhxeckpfecotl
+    password: b2d41529499451df17641c90d37baed431d35d991f353ce8e00c25913dd19a93
+    driverClassName: org.postgresql.Driver
+    defaultSchema:
+#    maxPoolSize: 20
+    hibernate:
+      hbm2ddl.method: update
+      show_sql: true
+      format_sql: true
+      dialect: org.hibernate.dialect.PostgreSQL9Dialect
